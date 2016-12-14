@@ -1,0 +1,7 @@
+{
+    "project_name": "flask_project",
+    "repo_name": "main",
+    "project_short_description": "flask app.",
+    "secret_key": "secret_key",
+    "enable_mail": "y"
+}
